@@ -3,7 +3,7 @@ function carregar(){
     var img = window.document.getElementById('manha');
     var data = new Date();
     var hora = data.getHours();
-    //var hora = 20 //Teste de hora forçado
+   // var hora = 8 //Teste de hora forçado
     msg.innerHTML = `Agora são ${hora} horas.`;
 
     //Mostrando a imagem correta
