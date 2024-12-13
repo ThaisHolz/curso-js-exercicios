@@ -3,4 +3,6 @@
 
  <a href="https://thaisholz.github.io/curso-js-exercicios/ex001/index.html">Clique para ver o exercício de estudo inicial</a>
 
-  <a href="https://thaisholz.github.io/curso-js-exercicios/ex002/index.html">Clique para ver o exercício de estudo utilizando horas</a>
+  <a href="https://thaisholz.github.io/curso-js-exercicios/ex002/index.html">Clique para ver o exercício de estudo utilizando HORAS</a>
+
+  <a href="https://thaisholz.github.io/curso-js-exercicios/ex003/index.html">Clique para ver o exercício de estudo utilizando IDADE</a>
