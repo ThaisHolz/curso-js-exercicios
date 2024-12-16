@@ -6,3 +6,7 @@
   <a href="https://thaisholz.github.io/curso-js-exercicios/ex002/index.html">Clique para ver o exercício de estudo utilizando HORAS</a>
 
   <a href="https://thaisholz.github.io/curso-js-exercicios/ex003/index.html">Clique para ver o exercício de estudo utilizando IDADE</a>
+
+  <a href="https://thaisholz.github.io/curso-js-exercicios/ex004/index.html">Clique para ver o exercício de estudo de um CONTADOR SIMPLES</a>
+
+  <a href="https://thaisholz.github.io/curso-js-exercicios/ex005/index.html">Clique para ver o exercício de estudo de TABUADAS</a>
