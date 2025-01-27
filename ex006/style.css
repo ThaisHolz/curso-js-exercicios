@@ -1,0 +1,29 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    align-items: center;
+}
+
+body{background: #771414;}
+
+header{
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 5px rgba(173, 172, 172, 0.403);
+}
+
+footer{
+    padding-top:20px;
+    text-align: center;
+    font-style: it alic;
+    color: white;
+}
